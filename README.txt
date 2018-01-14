@@ -12,13 +12,3 @@ by Limor Fried/Ladyada for Adafruit Industries.
 
 BSD license, all text above must be included in any redistribution
 
-Check out the links above for our tutorials and wiring diagrams 
-
-To download. click the ZIP button, and rename the uncompressed folder Adafruit_CAP1188 
-Check that the Adafruit_CAP1188 folder contains Adafruit_CAP1188.cpp and Adafruit_CAP1188.h
-
-Place the Adafruit_CAP1188 library folder your arduinosketchfolder/libraries/ folder. 
-You may need to create the libraries subfolder if its your first library. Restart the IDE.
-
-We also have a great tutorial on Arduino library installation at:
-http://learn.adafruit.com/adafruit-all-about-arduino-libraries-install-use
